@@ -50,7 +50,7 @@ const AboutPage = () => {
                 transition={{ duration: 0.6, delay: 0.4 }}
                 className="text-4xl md:text-5xl font-extrabold text-white mb-6 tracking-tight"
               >
-                PARIMI Mohan Satya Sai
+                Parimi Mohan Satya Sai
               </motion.h1>
 
               <motion.p
